@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["3d00831f87f5bba5.olean"],
+  "m": false,
+  "i": "775223e7fb111f0c.ilean",
+  "c": "9c89ea513cc39c92.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/root/lyssom-jsp/.lake/packages/Cli/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/batteries/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/Qq/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/aesop/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/proofwidgets/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/importGraph/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/plausible/.lake/build/lib/lean:/root/lyssom-jsp/.lake/packages/mathlib/.lake/build/lib/lean:/root/lyssom-jsp/.lake/build/lib/lean /root/lean-build/build/stage1/bin/lean /root/lyssom-jsp/JSP000307.lean -o /root/lyssom-jsp/.lake/build/lib/lean/JSP000307.olean -i /root/lyssom-jsp/.lake/build/lib/lean/JSP000307.ilean -c /root/lyssom-jsp/.lake/build/ir/JSP000307.c --setup /root/lyssom-jsp/.lake/build/ir/JSP000307.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["«lyssom-jsp»/JSP000307:extraDep",
+     [["@«lyssom-jsp»:extraDep", "00000000000006bb"]]],
+    ["imports",
+     [["Mathlib transitive imports (legacy)", "20db696d0f0dca08"],
+      ["Mathlib:importAllArts", "bacb2954db10dbdc"]]]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.33.0, commit ", "21c42906adea99f5"],
+  ["/root/lyssom-jsp/JSP000307.lean", "bb589c867e847d41"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: JSP000307", "4efe2e8732b600f3"],
+  ["Package.id?: (some lyssom-jsp)", "f150fb8c01d2d5ba"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "9ec55bdba7ee7356"}
