@@ -6,33 +6,7 @@ Mathlib: db584cd6d46c92f209a44c0f1c829460d327499d (Mathlib v4.33.0)
 Build completed successfully (8707 jobs).
 
 === Axiom audit ===
-'JSP000307.JSP_307' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_13._native.native_decide.ax_1_1,
- primeFactors_14._native.native_decide.ax_1_1,
- primeFactors_15._native.native_decide.ax_1_1]
-'JSP000307.IsLPF_13' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_13._native.native_decide.ax_1_1]
-'JSP000307.IsLPF_14_7' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_14._native.native_decide.ax_1_1]
-'JSP000307.IsLPF_15_5' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_15._native.native_decide.ax_1_1]
-'JSP000307.primeFactors_13' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_13._native.native_decide.ax_1_1]
-'JSP000307.primeFactors_14' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_14._native.native_decide.ax_1_1]
-'JSP000307.primeFactors_15' depends on axioms: [propext,
- Classical.choice,
- Quot.sound,
- primeFactors_15._native.native_decide.ax_1_1]
+'JSP000307.JSP_307' depends on axioms: [propext, Classical.choice, Quot.sound]
+'JSP000307.IsLPF_13' depends on axioms: [propext, Classical.choice, Quot.sound]
+'JSP000307.IsLPF_14_7' depends on axioms: [propext, Classical.choice, Quot.sound]
+'JSP000307.IsLPF_15_5' depends on axioms: [propext, Classical.choice, Quot.sound]

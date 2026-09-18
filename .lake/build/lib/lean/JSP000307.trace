@@ -1,9 +1,9 @@
 {"synthetic": false,
  "schemaVersion": "2025-09-10",
  "outputs":
- {"o": ["3d00831f87f5bba5.olean"],
+ {"o": ["5d64b72492aecb1b.olean"],
   "m": false,
-  "i": "775223e7fb111f0c.ilean",
+  "i": "aa07b1647254c860.ilean",
   "c": "9c89ea513cc39c92.c"},
  "log":
  [{"message":
@@ -22,10 +22,10 @@
     ["module dynlibs", "00000000000006bb"],
     ["module plugins", "00000000000006bb"]]],
   ["Lean 4.33.0, commit ", "21c42906adea99f5"],
-  ["/root/lyssom-jsp/JSP000307.lean", "bb589c867e847d41"],
+  ["/root/lyssom-jsp/JSP000307.lean", "ea20b9013b601601"],
   ["options", "00000000000006bb"],
   ["isModule: false", "feefd2a0d3a1847e"],
   ["Module.name: JSP000307", "4efe2e8732b600f3"],
   ["Package.id?: (some lyssom-jsp)", "f150fb8c01d2d5ba"],
   ["Module.leanArgs: #[]", "00000000000006bb"]],
- "depHash": "9ec55bdba7ee7356"}
+ "depHash": "74013d6de9ed2b17"}
